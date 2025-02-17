@@ -24,6 +24,6 @@ The *Order Management System* is a web application designed for managing orders 
 - *Frontend*: ReactJS, TypeScript, Tailwind CSS
 - *State Management*: Redux Toolkit
 - *Routing*: React Router DOM
-- *Build Tool*: Vite (or Create React App)
+- *Build Tool*: Create React App
 
 ---
