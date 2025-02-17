@@ -17,7 +17,7 @@ const Header: React.FC = () => {
   return (
     <header className="bg-gradient-to-r from-indigo-600 to-blue-500 text-white shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
-        <h1 className="text-xl font-semibold tracking-wide">Cake Shop Order System</h1>
+        <h1 className="text-xl font-semibold tracking-wide">Pizza Shop Order System</h1>
         {user ? (
           <div className="flex items-center gap-4">
             <img
